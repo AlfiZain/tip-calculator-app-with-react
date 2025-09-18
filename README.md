@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/tip-calculator-app-with-react-ntIA9KMfVc](https://www.frontendmentor.io/solutions/tip-calculator-app-with-react-ntIA9KMfVc)
+- Live Site URL: [https://tip-calculator-app-with-react-alfi.vercel.app/](https://tip-calculator-app-with-react-alfi.vercel.app/)
 
 ## My process
 
